@@ -47,8 +47,8 @@ A collection of useful links to SVG stuff, focusing particulary on interactivity
 | [Inline text editing](https://marmelab.com/blog/2013/05/13/inline-text-editing-with-raphael.html)|marmelab - Inline Text Editing With Raphaël.js|
 | [Vue and SVG, donut chart](https://css-tricks.com/building-a-donut-chart-with-vue-and-svg/)|css-tricks - Building a Donut Chart with Vue and SVG|
 | [Vue and SVG, component](https://hackwild.com/article/creating-a-reusable-svg-component-with-vue/)|Hackwild - Creating a Reusable SVG Component with Vue.js|
-| [Vue and SVG](https://travishorn.com/vue-svg-2310f1b151d4)|manipulating SVG elements in Vue.js |
-| [Vue and SVG](https://code.tutsplus.com/tutorials/turn-your-static-svg-drawings-into-interactive-widgets-and-infographics-with-vuejs--cms-32728)|Turn Your Static SVG Drawings Into Interactive Widgets and Infographics With Vue.js|
+| [Vue and SVG](https://travishorn.com/vue-svg-2310f1b151d4)|travis horn - manipulating SVG elements in Vue.js |
+| [Vue and SVG](https://code.tutsplus.com/tutorials/turn-your-static-svg-drawings-into-interactive-widgets-and-infographics-with-vuejs--cms-32728)|code-tutsplus - Turn Your Static SVG Drawings Into Interactive Widgets and Infographics With Vue.js|
 | [Interactive SVG map](https://parall.ax/blog/view/2985/tutorial-creating-an-interactive-svg-map)|Parallax - Tutorial - Creating an Interactive SVG map|
 
 
@@ -64,7 +64,12 @@ A collection of useful links to SVG stuff, focusing particulary on interactivity
 ## Articles and tutorials, general SVG
 | Website &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  | Description           |
 | ------- | --------------------- |
-| [SVG structuring and grouping](https://www.sarasoueidan.com/blog/structuring-grouping-referencing-in-svg/)|sara soueidan - Structuring, Grouping, and Referencing in SVG|
+| [SVG structuring and grouping](https://www.sarasoueidan.com/blog/structuring-grouping-referencing-in-svg/)|Sara Soueidan - Structuring, Grouping, and Referencing in SVG|
+| [A Compendium of SVG Information](https://css-tricks.com/mega-list-svg-information/)|css-tricks - A huge pile of information about SVG.|
+| [The ultimate guide to SVG](https://css-tricks.com/mega-list-svg-information/)|webdesignerdepot - TOOLS & RESOURCES|
+| [SVG Filters](https://www.smashingmagazine.com/2015/05/why-the-svg-filter-is-awesome/)|smashingmagazine - The Art Of SVG Filters And Why It Is Awesome|
+| [How to Scale SVG](https://css-tricks.com/scale-svg//)|css-tricks - How to Scale SVG|
+
 
 
 <div align="right">
