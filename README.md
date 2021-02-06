@@ -50,7 +50,7 @@ A collection of useful links to SVG stuff, focusing particulary on interactivity
 | [Vue and SVG](https://travishorn.com/vue-svg-2310f1b151d4)|travis horn - manipulating SVG elements in Vue.js |
 | [Vue and SVG](https://code.tutsplus.com/tutorials/turn-your-static-svg-drawings-into-interactive-widgets-and-infographics-with-vuejs--cms-32728)|code-tutsplus - Turn Your Static SVG Drawings Into Interactive Widgets and Infographics With Vue.js|
 | [Interactive SVG map](https://parall.ax/blog/view/2985/tutorial-creating-an-interactive-svg-map)|Parallax - Tutorial - Creating an Interactive SVG map|
-
+| [Interactive SVG](https://www.petercollingridge.co.uk/tutorials/svg/interactive/)|Peter Colingridge - Articles/tutorials - Excellent resource for interactive SVG|
 
 
 
