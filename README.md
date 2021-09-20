@@ -27,8 +27,6 @@ A collection of useful links to SVG stuff, focusing particulary on interactivity
 ## SVG javascript libraries
 | Website &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  | Description           |
 | ------- | --------------------- |
-| [SVG.js](https://svgjs.com/docs/3.0/)|library for manipulating and animating SVG|
-| [svg.draw.js](https://svgjs.com/svg.draw.js/demo/index.html)|An extension of svg.js which allows to draw elements with your mouse|
 | [Rough.js](https://roughjs.com/)|Create graphics with a hand-drawn, sketchy, appearance|
 | [GSAP](https://greensock.com/)|Greensock - professional-grade animation for the modern web|
 | [Raphael](https://dmitrybaranovskiy.github.io/raphael/)|Vector graphics on the web|
